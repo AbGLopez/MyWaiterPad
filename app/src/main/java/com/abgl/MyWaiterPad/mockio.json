@@ -16,7 +16,7 @@
     {
       "name": "Botella de vino",
       "description": "Reserva de mi casa.",
-      "image": 9,
+      "image": 5,
       "allergen": [5],
       "price": 12
     },
@@ -45,12 +45,12 @@
       "name": "Merluza de pincho del Cantábrico",
       "description": "",
       "price": 7.50,
-      "image": 8,
+      "image": 4,
       "allergen": [3, 7, 10, 11]
     },
     {
       "name": "Huevos rotos con foie de la casa y cebolla caramelizada",
-      "image": 12,
+      "image": 5,
       "allergen": [2, 4],
       "price": 7.50,
       "description": "."

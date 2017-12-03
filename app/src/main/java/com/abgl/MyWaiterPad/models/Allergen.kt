@@ -59,11 +59,11 @@ object Allergen {
         0 -> R.drawable.beer
         1 -> R.drawable.cesar_salad
         2 -> R.drawable.food_chicken
-        3 -> R.drawable.food_coke
+        3 -> R.drawable.pepsi_coke
         4 -> R.drawable.food_paella
         5 -> R.drawable.food_wine
-        6 -> R.drawable.food_cheese_cake
-        7 -> R.drawable.food_eggs
+        6 -> R.drawable.eggs
+        7 -> R.drawable.rice
         else -> R.drawable.no_photo
     }
 }
