@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyWaiterPad</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_image_description">Product image</string>
+    <string name="allergen_image">Allergen image</string>
+    <string name="product_price">%.2f €</string>
+    <string name="product_options_hint">Comments.</string>
+    <string name="bill">Bill</string>
+    <string name="pay_bill">Pay</string>
+    <string name="back_from_bill">Back</string>
+    <string name="products_count">%d products</string>
+    <string name="bill_format">%.2f €</string>
+    <string name="product_options_label">Notes:</string>
+    <string name="delete_product">Delete</string>
+</resources>

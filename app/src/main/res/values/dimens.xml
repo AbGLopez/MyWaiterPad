@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="product_available_image_size">100dp</dimen>
+    <dimen name="allergen_image_size">20dp</dimen>
+    <dimen name="distance_between_allergen_images">4dp</dimen>
+    <dimen name="dish_list_image_size">40dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="product_detail_image_size">150dp</dimen>
+    <dimen name="product_detail_name_size">20sp</dimen>
+    <dimen name="product_detail_price_size">18sp</dimen>
+    <dimen name="product_detail_description_size">16sp</dimen>
+    <dimen name="bill_table_name_size">24sp</dimen>
+    <dimen name="bill_amount_size">50sp</dimen>
+</resources>

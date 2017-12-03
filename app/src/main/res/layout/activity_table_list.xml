@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewSwitcher
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/view_switcher"
+    tools:context="com.abgl.MyWaiterPad.activity.TableListActivity">
+
+    <ProgressBar
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_gravity="center"
+        android:indeterminate="true"
+        android:layout_margin="@dimen/margin_default"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <FrameLayout
+        android:id="@+id/table_list_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </FrameLayout>
+
+</ViewSwitcher>
